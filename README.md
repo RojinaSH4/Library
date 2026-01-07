@@ -58,6 +58,11 @@ Through this project, I improved my understanding of:
 
 ---
 
+## Screenshots
+
+
+---
+
 ## How to Run
 1. Open the solution file in Visual Studio  
 2. Build the solution  
@@ -66,4 +71,4 @@ Through this project, I improved my understanding of:
 ---
 
 ## Notes
-This project was created for learning purposes and to showcase my C# and WinForms skills on GitHub.
+This project was created for learning purposes and to showcase my C#.
