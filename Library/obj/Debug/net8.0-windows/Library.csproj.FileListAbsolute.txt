@@ -1,0 +1,38 @@
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.FrmLibrary.resources
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.csproj.GenerateResource.cache
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Library.exe
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Library.deps.json
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Library.dll
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Library.pdb
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.dll
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\refint\Library.dll
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.pdb
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\ref\Library.dll
+E:\C# Samples\Library\Library\bin\Debug\net8.0-windows\Library.exe
+E:\C# Samples\Library\Library\bin\Debug\net8.0-windows\Library.deps.json
+E:\C# Samples\Library\Library\bin\Debug\net8.0-windows\Library.runtimeconfig.json
+E:\C# Samples\Library\Library\bin\Debug\net8.0-windows\Library.dll
+E:\C# Samples\Library\Library\bin\Debug\net8.0-windows\Library.pdb
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.FrmLibrary.resources
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.csproj.GenerateResource.cache
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.AssemblyInfoInputs.cache
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.AssemblyInfo.cs
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.csproj.CoreCompileInputs.cache
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.dll
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\refint\Library.dll
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.pdb
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\Library.genruntimeconfig.cache
+E:\C# Samples\Library\Library\obj\Debug\net8.0-windows\ref\Library.dll
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\EditLip.dll
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\EditLip.pdb
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.csproj.AssemblyReference.cache
+C:\Users\NegAnd\source\repos\Library\Library\obj\Debug\net8.0-windows\Library.csproj.Up2Date
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\NegAnd\source\repos\Library\Library\bin\Debug\net8.0-windows\Domain.pdb

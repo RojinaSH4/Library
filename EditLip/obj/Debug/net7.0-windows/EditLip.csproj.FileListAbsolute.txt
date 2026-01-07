@@ -1,0 +1,17 @@
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\bin\Debug\net7.0-windows\EditLip.deps.json
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\bin\Debug\net7.0-windows\EditLip.dll
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\bin\Debug\net7.0-windows\EditLip.pdb
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\bin\Debug\net7.0-windows\Domain.dll
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\bin\Debug\net7.0-windows\Domain.pdb
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.csproj.AssemblyReference.cache
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.csproj.GenerateResource.cache
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.AssemblyInfoInputs.cache
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.AssemblyInfo.cs
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.csproj.CoreCompileInputs.cache
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.csproj.CopyComplete
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.dll
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\refint\EditLip.dll
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.pdb
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\ref\EditLip.dll
+C:\Users\arsha\Desktop\C# Samples\Library\EditLip\obj\Debug\net7.0-windows\EditLip.frmEdit.resources

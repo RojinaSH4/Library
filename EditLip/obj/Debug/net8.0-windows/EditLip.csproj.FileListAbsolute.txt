@@ -1,0 +1,17 @@
+C:\Users\NegAnd\source\repos\Library\EditLip\bin\Debug\net8.0-windows\EditLip.deps.json
+C:\Users\NegAnd\source\repos\Library\EditLip\bin\Debug\net8.0-windows\EditLip.dll
+C:\Users\NegAnd\source\repos\Library\EditLip\bin\Debug\net8.0-windows\EditLip.pdb
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.FrmEdit.resources
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.csproj.GenerateResource.cache
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.AssemblyInfoInputs.cache
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.AssemblyInfo.cs
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.csproj.CoreCompileInputs.cache
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.dll
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\refint\EditLip.dll
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.pdb
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\ref\EditLip.dll
+C:\Users\NegAnd\source\repos\Library\EditLip\bin\Debug\net8.0-windows\Domain.dll
+C:\Users\NegAnd\source\repos\Library\EditLip\bin\Debug\net8.0-windows\Domain.pdb
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.csproj.AssemblyReference.cache
+C:\Users\NegAnd\source\repos\Library\EditLip\obj\Debug\net8.0-windows\EditLip.csproj.Up2Date

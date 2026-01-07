@@ -1,0 +1,11 @@
+C:\Users\NegAnd\source\repos\Library\EditList\bin\Debug\net8.0\EditList.deps.json
+C:\Users\NegAnd\source\repos\Library\EditList\bin\Debug\net8.0\EditList.dll
+C:\Users\NegAnd\source\repos\Library\EditList\bin\Debug\net8.0\EditList.pdb
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\EditList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\EditList.AssemblyInfoInputs.cache
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\EditList.AssemblyInfo.cs
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\EditList.csproj.CoreCompileInputs.cache
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\EditList.dll
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\refint\EditList.dll
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\EditList.pdb
+C:\Users\NegAnd\source\repos\Library\EditList\obj\Debug\net8.0\ref\EditList.dll
